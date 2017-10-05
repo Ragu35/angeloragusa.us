@@ -1,4 +1,5 @@
 /* Smooth Scroll */
+$(Document).ready(function(){
 $(function() {
   $('a[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -23,4 +24,5 @@ $(window).scroll( function( e ){
     } else {
         $(".nav-container").removeClass("nav-fixed");
     }
+});
 });
