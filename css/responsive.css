@@ -1,4 +1,4 @@
-﻿
+
 /*------------------------*/
 /* ----- Responsive ----- */
 /*------------------------*/
@@ -38,12 +38,21 @@
   .profile-list .cont{
     float:left;
     line-height: 60px;
+    margin-left: 0;
+    text-align: left;
+    font-size: 13px;
   }
   .profile-social{
     padding: 0;
   }
   .about-txt{
     font-size: 16px;
+  }
+  .form-container input{
+    width: 90%;
+  }
+  .form-container textarea{
+    width: 89%;
   }
 }
 
