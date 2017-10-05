@@ -3,8 +3,8 @@
 <head>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <script src="https://use.fontawesome.com/b2a638b36d.js"></script>
-  <link rel="stylesheet" href="angeloragusa.us/css/style.css">
-  <script src="angeloragusa.us/js/script.js"></script>
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/script.js"></script>
 
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
