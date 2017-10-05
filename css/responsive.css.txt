@@ -61,3 +61,9 @@
     display:none;
   }
 }
+
+@media only screen and (max-width: 338px){
+  .footer-text{
+    font-size: 12px;
+  }
+}
