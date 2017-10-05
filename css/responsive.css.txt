@@ -1,0 +1,54 @@
+
+/*------------------------*/
+/* ----- Responsive ----- */
+/*------------------------*/
+
+@media only screen and (max-width: 931px) {
+  .menu-container {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .logo-container {
+    float: none;
+    text-align: center;
+  }
+  .logo {
+    display:none;
+  }
+  .content{
+    margin-top: -400px;
+  }
+  .profile-photo {
+    width: 30%;
+    min-width: 150px;
+    margin: 0 auto;
+  }
+  .profile-info-container {
+    text-align: center;
+  }
+  .profile-preword {
+    float: none;
+    margin-top: 20px;
+  }
+  .profile-list .title{
+    width: 0;
+  }
+  .profile-list .cont{
+    float:left;
+    line-height: 60px;
+  }
+  .profile-social{
+    padding: 0;
+  }
+  .about-txt{
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 477px){
+  span.logo-fixed-subtext{
+    display:none;
+  }
+}

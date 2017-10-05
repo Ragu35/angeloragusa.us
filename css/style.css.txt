@@ -496,32 +496,3 @@ input.submit-btn {
   background: #0d2b44;
   color: #fff;
 }
-
-/*------------------------*/
-/* ----- Responsive ----- */
-/*------------------------*/
-
-@media only screen and (max-width: 931px) {
-  .menu-container {
-    display: none;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .logo-container {
-    float: none;
-    text-align: center;
-  }
-  .profile-photo {
-    width: 30%;
-    min-width: 150px;
-    margin: 0 auto;
-  }
-  .profile-info-container {
-    text-align: center;
-  }
-  .profile-preword {
-    float: none;
-    margin-top: 20px;
-  }
-}
