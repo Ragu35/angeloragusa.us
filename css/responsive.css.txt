@@ -57,6 +57,9 @@
   .skill-description:last-child{
     border-bottom: none;
   }
+  .portfolio-title-box{
+    padding-top: 24px;
+  }
   .form-container input{
     width: 90%;
     padding: 8px 16px;
