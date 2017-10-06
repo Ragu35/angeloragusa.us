@@ -128,7 +128,7 @@
         </div>
         <div class="section-txt-btn">
           <p>
-            <a class="btn btn-lg btn-border" target="_blank" href="#"><i class="fa fa-download"></i> Download Resume</a>
+            <a class="btn btn-lg btn-border" target="_blank" href="/Ragusa_Angelo_Resume/"><i class="fa fa-download"></i> Download Resume</a>
           </p>
           <p class="about-txt">Hello! I'm Angelo Ragusa. Front end developer and web designer.<br> If you like what you see, let's get in touch to discuss your future website!</p>
         </div>
