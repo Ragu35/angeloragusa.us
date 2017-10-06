@@ -10,6 +10,8 @@
   .content{
     margin-top: -400px;
   }
+  .section-about .profile{
+    padding: 24px 36px 16px 36px;
 }
 
 @media only screen and (max-width: 767px) {
