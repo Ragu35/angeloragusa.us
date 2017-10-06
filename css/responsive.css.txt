@@ -4,8 +4,11 @@
 /*------------------------*/
 
 @media only screen and (max-width: 931px) {
-  .menu-container {
+  .nav-container {
     display: none;
+  }
+  .content{
+    margin-top: -400px;
   }
 }
 
@@ -16,9 +19,6 @@
   }
   .logo {
     display:none;
-  }
-  .content{
-    margin-top: -400px;
   }
   .profile-photo {
     width: 30%;
@@ -47,6 +47,12 @@
   }
   .about-txt{
     font-size: 16px;
+  }
+  .skill-row {
+    border-bottom: none;
+  }
+  .skill-description{
+    border-bottom: 1px solid #dedede;
   }
   .form-container input{
     width: 90%;
