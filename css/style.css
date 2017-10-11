@@ -494,6 +494,15 @@ a .menu-item:hover {
   padding-top:24px;
 }
 
+.contact-sub{
+  text-align: center;
+  padding-top: 16px;
+}
+
+.contact-email{
+  vertical-align:super;
+}
+
 .section-box.contact-box {
   margin-bottom: 50px;
 }
