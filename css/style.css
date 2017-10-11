@@ -489,6 +489,11 @@ a .menu-item:hover {
   border-bottom: none;
 }
 
+.contact-box {
+  margin-bottom: 50px;
+  padding: 24px 48px 8px 48px;
+}
+
 .contact-txt{
   text-align:center;
 }
@@ -501,10 +506,8 @@ a .menu-item:hover {
 .contact-email{
   vertical-align:super;
 }
-
-.section-box.contact-box {
-  margin-bottom: 50px;
-  padding: 24px 48px 8px 48px;
+.contact-btn{
+  text-align: center;
 }
 
 .footer {
