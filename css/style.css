@@ -489,25 +489,9 @@ a .menu-item:hover {
   border-bottom: none;
 }
 
-.form-container input {
-  padding: 16px;
-  border: 1px solid #dedede;
-  margin: 16px;
-  width: 28.6%;
-}
-
-.form-container textarea {
-  padding: 16px;
-  border: 1px solid #dedede;
-  margin: 20px;
-  width: 93%;
-}
-
-input.submit-btn {
-  background: #2276bf;
-  color: #fff;
-  width: 93.5%;
-  margin-top: 0;
+.contact-txt{
+  text-align:center;
+  padding-top:24px;
 }
 
 .section-box.contact-box {
