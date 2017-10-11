@@ -491,7 +491,6 @@ a .menu-item:hover {
 
 .contact-txt{
   text-align:center;
-  padding-top:24px;
 }
 
 .contact-sub{
@@ -505,6 +504,7 @@ a .menu-item:hover {
 
 .section-box.contact-box {
   margin-bottom: 50px;
+  padding: 24px 48px 8px 48px;
 }
 
 .footer {
