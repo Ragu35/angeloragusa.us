@@ -411,6 +411,7 @@ a .menu-item:hover {
 .skill-title {
   font-size: 19px;
   padding-top: 16px;
+  margin-bottom: 4px;
 }
 
 .skill-row:last-child {
@@ -419,7 +420,7 @@ a .menu-item:hover {
 
 .skill-title-border{
   width:25px;
-  padding-bottom:10px;
+  padding-bottom:16px;
   border-top: 3px solid #2276bf;
 }
 
