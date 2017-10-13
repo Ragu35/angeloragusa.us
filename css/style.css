@@ -419,15 +419,8 @@ a .menu-item:hover {
 
 .skill-title-border{
   width:25px;
-  padding-top:5px;
-  border-bottom: 3px solid #2276bf;
-}
-
-.wordpress-symbol {
-  border: 2px solid #2276bf;
-  border-radius: 50%;
-  padding: 4px;
-  font-size: 14px;
+  padding-bottom:10px;
+  border-top: 3px solid #2276bf;
 }
 
 .skill-description {
