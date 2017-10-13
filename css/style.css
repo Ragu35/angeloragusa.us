@@ -417,9 +417,10 @@ a .menu-item:hover {
   border-bottom: none;
 }
 
-.skill-symbol {
-  color: #2276bf;
-  font-weight: 900;
+.skill-title-border{
+  width:25px;
+  padding-top:5px;
+  border-bottom: 3px solid #2276bf;
 }
 
 .wordpress-symbol {
