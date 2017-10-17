@@ -42,7 +42,7 @@ body {
     top: -120px;
 }
 .header-container {
-    background: url("http://res.cloudinary.com/dfl66r2tr/image/upload/v1505829420/header-img_zvkoxk.jpg") rgba(0, 0, 0, 0.6);
+    background: url("/img/header-bg.jpg") rgba(0, 0, 0, 0.6);
     min-height: 400px;
     background-blend-mode: overlay;
     background-position-y: center;
