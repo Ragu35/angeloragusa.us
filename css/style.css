@@ -70,7 +70,6 @@ body {
     color: #fff;
     font-weight: 400;
     font-size: 18px;
-    font-variant: small-caps;
 }
 .nav-fixed .menu-container a .menu-item:hover {
     border-bottom: 3px solid #fff;
@@ -99,7 +98,6 @@ body {
     font-size: 40px;
     font-weight: 900;
     padding: 16px;
-    font-variant: small-caps;
     text-decoration: none;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
@@ -127,7 +125,6 @@ a.logo-fixed-link:focus {
 }
 .menu-item {
     list-style: none;
-    font-variant: small-caps;
     display: inline-block;
     padding: 36px 24px 8px 24px;
 }
