@@ -5,6 +5,8 @@
 * {
     margin: 0;
     padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 *,
 *:before,
@@ -303,25 +305,27 @@ a .menu-item:hover {
     min-width: 130px;
 }
 .btn-border {
-    color: #3d4451;
-    border: 1px solid #cbcdcf;
+    color: #2276bf;
+    border: 1px solid #2276bf;
     background: transparent;
-    -webkit-box-shadow: none;
-    box-shadow: none;
+    -webkit-box-shadow: 0 13px 10px -8px rgba(0,0,0,0.5);
+    box-shadow: 0 13px 10px -8px rgba(0,0,0,0.5);
     -webkit-transition: 0.4s;
     -o-transition: 0.4s;
     transition: 0.4s;
+
 }
 .btn-border:hover {
     text-decoration: none;
-    -webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
-    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 28px 25px -19px rgba(0,0,0,0.5)
+    box-shadow: 0 28px 25px -19px rgba(0,0,0,0.5)
     -webkit-transition: 0.4s;
     -o-transition: 0.4s;
     transition: 0.4s;
-    background: #2276bf;
+    background: #164e79;
+    transform: translate(0, -5px);
     color: #fff;
-    border: 1px solid #2276bf;
+    border: 1px solid #164e79;
 }
 .about-txt {
     margin-top: 30px;
