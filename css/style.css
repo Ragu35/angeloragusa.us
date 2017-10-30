@@ -310,18 +310,18 @@ a .menu-item:hover {
     background: #2276bf;
     -webkit-box-shadow: 0 13px 10px -8px rgba(0,0,0,0.5);
     box-shadow: 0 13px 10px -8px rgba(0,0,0,0.5);
-    -webkit-transition: 0.4s;
-    -o-transition: 0.4s;
-    transition: 0.4s;
+    -webkit-transition: 300ms ease-in-out;
+    -o-transition: 300ms ease-in-out;
+    transition: 300ms ease-in-out;
 
 }
 .btn-border:hover {
     text-decoration: none;
     -webkit-box-shadow: 0 28px 25px -19px rgba(0,0,0,0.5);
     box-shadow: 0 28px 25px -19px rgba(0,0,0,0.5);
-    -webkit-transition: 0.4s;
-    -o-transition: 0.4s;
-    transition: 0.4s;
+    -webkit-transition: 300ms ease-in-out;
+    -o-transition: 300ms ease-in-out;
+    transition: 300ms ease-in-out;
     background: #164e79;
     transform: translate(0, -5px);
     color: #fff;
