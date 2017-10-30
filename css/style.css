@@ -317,8 +317,8 @@ a .menu-item:hover {
 }
 .btn-border:hover {
     text-decoration: none;
-    -webkit-box-shadow: 0 28px 25px -19px rgba(0,0,0,0.5)
-    box-shadow: 0 28px 25px -19px rgba(0,0,0,0.5)
+    -webkit-box-shadow: 0 28px 25px -19px rgba(0,0,0,0.5);
+    box-shadow: 0 28px 25px -19px rgba(0,0,0,0.5);
     -webkit-transition: 0.4s;
     -o-transition: 0.4s;
     transition: 0.4s;
