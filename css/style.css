@@ -66,7 +66,6 @@ body {
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
-    border-bottom: 1px solid #102d46;
 }
 .nav-fixed .menu-container a .menu-item {
     color: #fff;
