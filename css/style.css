@@ -321,7 +321,9 @@ a .menu-item:hover {
     -o-transition: 300ms ease-in-out;
     transition: 300ms ease-in-out;
     background: #164e79;
-    transform: translate(0, -5px);
+    -webkit-transform: translate(0, -5px);
+        -ms-transform: translate(0, -5px);
+            transform: translate(0, -5px);
     color: #fff;
     border: 1px solid #164e79;
 }
