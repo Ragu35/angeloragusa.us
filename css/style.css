@@ -37,7 +37,7 @@ h4,
 h5,
 p,
 body {
-    font-family: "Raleway";
+    font-family: 'Proxima Nova', Georgia, sans-serif;;
 }
 .anchor {
     position: relative;
@@ -117,7 +117,6 @@ a.logo-fixed-link:focus {
 .logo-fixed-subtext {
     font-size: 18px;
     font-weight: 100;
-    font-variant: small-caps;
 }
 .menu-container {
     float: right;
@@ -132,7 +131,7 @@ a.logo-fixed-link:focus {
 a .menu-item {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.5);
-    font-family: "Raleway";
+    font-family: 'Proxima Nova', Georgia, sans-serif;;
     font-weight: 400;
     border-bottom: none;
     font-size: 18px;
@@ -214,7 +213,7 @@ a .menu-item:hover {
     line-height: 1.1;
     font-weight: 700;
     margin-bottom: 5px;
-    font-family: "Raleway";
+    font-family: 'Proxima Nova', Georgia, sans-serif;;
 }
 .profile-title span {
     font-weight: 100;
