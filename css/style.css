@@ -57,7 +57,7 @@ body {
     transition: 0.4s;
 }
 .nav-fixed {
-    background: #004b8e;
+    background: #144672;
     position: fixed;
     width: 100%;
     z-index: 99;
@@ -241,7 +241,7 @@ a .menu-item:hover {
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;
-    color: #9da0a7;
+    color: #585858;
 }
 .profile-social {
     background-color: #2276bf;
@@ -360,7 +360,7 @@ a .menu-item:hover {
 }
 .skill-description {
     padding-bottom: 16px;
-    color: #9da0a7;
+    color: #585858;
 }
 .portfolio-img {
     width: 100%;
@@ -393,7 +393,7 @@ a .menu-item:hover {
     text-align: center;
 }
 .portfolio-description {
-    color: #9da0a7;
+    color: #585858;
 }
 .portfolio-description-border {
     margin: 15px auto;
