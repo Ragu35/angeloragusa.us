@@ -361,6 +361,7 @@ a .menu-item:hover {
 .skill-description {
     padding-bottom: 16px;
     color: #585858;
+    font-size: 16px;
 }
 .portfolio-img {
     width: 100%;
@@ -394,6 +395,7 @@ a .menu-item:hover {
 }
 .portfolio-description {
     color: #585858;
+    font-size: 16px;
 }
 .portfolio-description-border {
     margin: 15px auto;
